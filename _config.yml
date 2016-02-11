@@ -11,7 +11,7 @@ description:      "Distillery"
 logo:             parcxerox_black_solid.png
 
 email: your-email@domain.com
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/CCNx_Distillery/" # the subpath of your site, e.g. /blog
 url: "http://glenncscott.github.io/CCNx_Distillery/" # the base hostname & protocol for your site
 twitter_username: ccnx
 github_username:  ccnx

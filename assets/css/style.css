@@ -1,3 +1,5 @@
+---
+---
 /* tools */
 .cf:before,
 .cf:after {
@@ -160,7 +162,7 @@ main, .notepad-share-icons, .notepad-disqus {
 .notepad-site-head .notepad-site-head-content {
   width: 100%;
   text-align: center;
-  background:black url(/CCNx_Distillery/images/building_exterior_windows_01.png) 0px 0px no-repeat;
+  background:black url({{ site.baseurl }}images/building_exterior_windows_01.png) 0px 0px no-repeat;
   background-size: cover; }
   .notepad-site-head .notepad-site-head-content.with-bg-cover {
     background-color: rgba(0, 0, 0, 0.7); }
