@@ -19,3 +19,12 @@ github_username:  ccnx
 # Build settings
 markdown: kramdown
 exclude: [ Xcode, src, usr, build, dependencies ]
+links:
+  - title: Home
+    url: /
+    external: false
+    icon: home
+  - title: Categories
+    url: /categories
+  - title: About
+    url: /about
