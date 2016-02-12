@@ -51,11 +51,11 @@ main, .notepad-share-icons, .notepad-disqus {
   .notepad-blog-menu .notepad-mobile-menu a {
     display: inline-block;
     outline: none;
-    color: black;
+    color: white;
     padding-top: 1.25rem;
     padding-bottom: 1.25rem; }
     .notepad-blog-menu .notepad-mobile-menu a:hover {
-      color: black; }
+      color: white; }
   .notepad-blog-menu ul {
     background: black;
     position: absolute;
@@ -127,7 +127,7 @@ main, .notepad-share-icons, .notepad-disqus {
           text-align: left;
           padding: 0; }
           .notepad-blog-menu ul li a {
-            color: black;
+            color: white;
             display: inline-block;
             border-bottom: 0.1875rem solid transparent;
             width: auto;
@@ -139,7 +139,7 @@ main, .notepad-share-icons, .notepad-disqus {
   background:black url({{ site.baseurl }}/images/building_exterior_windows_01.png) no-repeat top right;
   }
   .notepad-site-head .notepad-site-head-menu {
-    bxackground: white;
+    color: white;
     }
     .notepad-site-head .notepad-site-head-menu .notepad-blog-logo {
       display: inline-block;
@@ -156,13 +156,13 @@ main, .notepad-share-icons, .notepad-disqus {
       font-family: "Montserrat", sans-serif;
       font-size: 1.625rem;
       font-weight: 700;
-      color: black;
+      color: white;
       text-transform: uppercase;
       letter-spacing: -0.0625rem; }
       .notepad-site-head .notepad-site-head-menu .title a {
-        color: black; }
+        color: white; }
         .notepad-site-head .notepad-site-head-menu .title a:hover {
-          color: black; }
+          color: white; }
   .notepad-site-head .notepad-site-head-content {
     width: 100%;
     text-align: center;
