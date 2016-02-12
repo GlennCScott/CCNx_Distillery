@@ -8,7 +8,7 @@
 # Site settings
 title:            CCNx
 description:      "Distillery"
-logo:             parcxerox_black_solid.png
+logo:             parcxerox_reverse_solid.png
 
 email: your-email@domain.com
 baseurl: "/CCNx_Distillery" # the subpath of your site, e.g. /blog
