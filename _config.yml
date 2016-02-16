@@ -7,7 +7,9 @@
 
 # Site settings
 title:            CCNx
-description:      "Distillery"
+masthead:
+  title: "CCNx Distillery"
+description:      ""
 logo:             parcxerox_reverse_solid.png
 
 email: your-email@domain.com
